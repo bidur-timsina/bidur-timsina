@@ -3,7 +3,7 @@
 I’m a **Data Scientist** passionate about extracting insights from data and building intelligent systems.  
 
 ## 🚀 Skills  
-- Python, SQL 
+- **Python, SQL** 
 - Machine Learning, Deep Learning  
 - Data Visualization (Matplotlib, Plotly)  
 - Cloud Platforms (AWS, GCP)  
